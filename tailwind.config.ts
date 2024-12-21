@@ -12,6 +12,10 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      backgroundImage: {
+        "custom-bg": "url('/unsplash.avif')",
+        "home-section": "url('/home/random1.avif')",
+      },
     },
   },
   plugins: [],
